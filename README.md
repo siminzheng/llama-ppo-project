@@ -29,7 +29,7 @@ gpt-ppo-project/
 
 ```
 
-# GPT PPO Project
+# Llama PPO Project
 
 本仓库包含两个子项目：
 
