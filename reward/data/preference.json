@@ -1,0 +1,10 @@
+{"question":"JavaScript中的闭包是什么？", "chosen":"闭包是函数及其词法环境的组合，允许函数访问并记住其作用域外的变量。","rejected":"闭包是JavaScript中的函数特性。"}
+{"question":"如何防止SQL注入攻击？", "chosen":"使用参数化查询或预处理语句能有效隔离用户输入与SQL指令，从而阻止注入攻击。","rejected":"避免SQL注入需要安全编程。"}
+{"question":"TensorFlow的主要优势是什么？", "chosen":"TensorFlow提供强大的分布式计算支持、自动微分功能和丰富的预建模型库，特别适合大规模深度学习。","rejected":"TensorFlow是谷歌开发的机器学习库。"}
+{"question":"RESTful API的核心原则是什么？", "chosen":"RESTful API遵循无状态通信、统一接口、资源标识和缓存等设计约束。","rejected":"RESTful API是一种网络服务。"}
+{"question":"什么是过拟合现象？", "chosen":"当模型过度学习训练数据中的噪声和细节，导致在新数据上表现显著下降时，称为过拟合。","rejected":"过拟合是模型训练中的问题。"}
+{"question":"Git中的分支管理策略有哪些？", "chosen":"Git Flow策略明确划分feature分支、release分支和hotfix分支，支持GitHub Flow的持续部署模式。","rejected":"Git分支用于隔离开发工作。"}
+{"question":"神经网络中的激活函数作用是什么？", "chosen":"激活函数如ReLU或Sigmoid引入非线性变换，使网络能够学习复杂模式并决定神经元是否激活。","rejected":"激活函数用于神经网络计算。"}
+{"question":"Docker容器与虚拟机的区别？", "chosen":"Docker容器共享主机OS内核，启动更快资源占用少；而虚拟机需独立运行完整客户操作系统。","rejected":"Docker是容器化技术。"}
+{"question":"什么是强化学习？", "chosen":"强化学习通过奖励机制让智能体在环境中试错学习，典型应用包括AlphaGo和自动驾驶决策系统。","rejected":"强化学习是机器学习类型。"}
+{"question":"如何用Matplotlib创建散点图？", "chosen":"使用plt.scatter(x,y)函数，可配置点的大小、颜色和透明度参数实现多维度数据可视化。","rejected":"Matplotlib能绘制散点图。"}
